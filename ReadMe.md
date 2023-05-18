@@ -10,6 +10,8 @@ ECHO is on.
 7. tesssttttttttttt conflict 
 8. tessssssss2 show conflict
 9. fahteme I love you belive me 
+10. love love love 
+
 
 
  
