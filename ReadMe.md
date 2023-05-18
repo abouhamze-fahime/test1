@@ -9,6 +9,7 @@ ECHO is on.
 6. git checkout branchname 
 7. tesssttttttttttt conflict 
 8. tessssssss2 show conflict
+9. fahteme I love you belive me 
 
 
  
