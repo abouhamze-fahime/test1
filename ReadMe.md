@@ -5,7 +5,9 @@ ECHO is on.
 
 4. git branch -d fahime
 5. git branch -delete fahime
+
 6. git checkout branchname 
+
 
 
  
